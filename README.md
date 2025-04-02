@@ -28,6 +28,3 @@ This project demonstrates a data pipeline using DBT (Data Build Tool) with Snowf
 
 ## Deployment:
 - The pipeline will run daily to process and transform the TPCH data, with tests to ensure data integrity and quality.
-
-## License:
-MIT License
